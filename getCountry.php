@@ -1,4 +1,7 @@
 <?php
+// Retrieves data using REST Countries API and stores it into a basic array
+// https://restcountries.com/
+
 function getCountry($code) {
 	
 		$population = '';
